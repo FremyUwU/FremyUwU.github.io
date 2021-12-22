@@ -1,0 +1,15 @@
+body {
+    background-color: #ADD8E6;
+
+}
+p {
+    font-family: "Times New Roman"; font-size: 25; background-color: #FFFFFF;
+
+}
+li {
+    font-size: 20; color: #000000;
+
+}
+input {
+    color: #000000; background-color: #1E90FF;
+}
